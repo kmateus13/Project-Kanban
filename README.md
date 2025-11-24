@@ -32,7 +32,7 @@ Este é um projeto desenvolvido no curso **FullStack JavaScript** da @OneBitCode
 ## Como Rodar o Projeto
 ### 1. Clonar o repositório
 
-    git clone https://github.com/seu-usuario/kanban-project.git
+    git clone https://github.com/kmateus13/kanban-project.git
 
 
 ### 2. Rodar o Backend (API)
